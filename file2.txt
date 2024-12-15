@@ -1,3 +1,4 @@
 this is branch feature2
 once again
 one more string
+one more string to the file
